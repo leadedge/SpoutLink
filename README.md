@@ -17,12 +17,14 @@ Open SpoutLink, and select the sender application required. In the DirectX 9 rec
 
 ### Building the project
 
-The project depends on :
+The project is for Openframewoorks and depends on :
 
-[ofxWinMenu](https://github.com/leadedge/ofxWinMenu)
+[ofxWinMenu](https://github.com/leadedge/ofxWinMenu)\
 [Spout SDK](https://github.com/leadedge/Spout2/tree/master/SPOUTSDK/SpoutGL)
 
-The source files of the Spout SDK are not set up as an addon, so they must be copied to the "SpoutGL" folder within he Openframeworks folder as follows :
+1) Download the ofxWinMenu addon and copy to the Openframeworks addons folder
+2) Download the SpoutGL folder of Spout SDK and copy to a "SpoutGL" folder within the Openframeworks folder.
+3) Download this project and copy to a "SpoutLink" folder within the Openframeworks "apps\myApps" folder.
 
 <pre>
 C:\OPENFRAMEWORKS
