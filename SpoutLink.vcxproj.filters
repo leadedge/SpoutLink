@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SpoutGL\SpoutCopy.cpp">
+      <Filter>SpoutGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SpoutGL\SpoutDirectX.cpp">
+      <Filter>SpoutGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SpoutGL\SpoutFrameCount.cpp">
+      <Filter>SpoutGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SpoutGL\SpoutGL.cpp">
+      <Filter>SpoutGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SpoutGL\SpoutGLextensions.cpp">
+      <Filter>SpoutGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SpoutGL\SpoutReceiver.cpp">
+      <Filter>SpoutGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SpoutGL\SpoutSender.cpp">
+      <Filter>SpoutGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SpoutGL\SpoutSenderNames.cpp">
+      <Filter>SpoutGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SpoutGL\SpoutSharedMemory.cpp">
+      <Filter>SpoutGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SpoutGL\SpoutUtils.cpp">
+      <Filter>SpoutGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SpoutGL\Spout.cpp">
+      <Filter>SpoutGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxWinMenu\src\ofxWinMenu.cpp">
+      <Filter>addons\ofxWinMenu</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\resource.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SpoutGL\SpoutCommon.h">
+      <Filter>SpoutGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SpoutGL\SpoutCopy.h">
+      <Filter>SpoutGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SpoutGL\SpoutDirectX.h">
+      <Filter>SpoutGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SpoutGL\SpoutFrameCount.h">
+      <Filter>SpoutGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SpoutGL\SpoutGL.h">
+      <Filter>SpoutGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SpoutGL\SpoutGLextensions.h">
+      <Filter>SpoutGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SpoutGL\SpoutReceiver.h">
+      <Filter>SpoutGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SpoutGL\SpoutSender.h">
+      <Filter>SpoutGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SpoutGL\SpoutSenderNames.h">
+      <Filter>SpoutGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SpoutGL\SpoutSharedMemory.h">
+      <Filter>SpoutGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SpoutGL\SpoutUtils.h">
+      <Filter>SpoutGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\SpoutGL\Spout.h">
+      <Filter>SpoutGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxWinMenu\src\ofxWinMenu.h">
+      <Filter>addons\ofxWinMenu</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{4a71ec0f-471c-4370-8059-943b58e2512f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{0c42107f-705a-4bbc-8578-e6fda3f518a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxWinMenu">
+      <UniqueIdentifier>{9193b31e-7700-4ca8-9082-24a729488e3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SpoutGL">
+      <UniqueIdentifier>{40684720-d5f5-4b90-bdcb-c8ae275b33ec}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="src\resource.rc">
+      <Filter>src</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
